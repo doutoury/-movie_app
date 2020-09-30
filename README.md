@@ -1,3 +1,5 @@
-# Movie App
+# Movie App Page
 
-React JS Fundamental Course
+This is a clone coding with the movie list of YTX.mx API.
+
+HTML, CSS, Javascript, Nodejs, Reactjs
